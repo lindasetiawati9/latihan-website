@@ -12,7 +12,6 @@ import { Navbar, NavbarLogo, NavbarCollapse, NavbarLink } from 'flowbite-vue'
         <NavbarCollapse :isShowMenu="isShowMenu">
           <NavbarLink is-active>Beranda</NavbarLink>
           <NavbarLink>Menu</NavbarLink>
-          <NavbarLink>Pesan</NavbarLink>
           <NavbarLink>Tentang</NavbarLink>
         </NavbarCollapse>
       </template>
